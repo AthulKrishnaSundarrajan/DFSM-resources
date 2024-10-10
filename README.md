@@ -9,4 +9,4 @@ The following presentation explores the trade-off betwen classic sys-id methods,
 
 An example of using the DFSM for closed-loop control simulation of FOWT can be found in: [Example_19](https://github.com/AthulKrishnaSundarrajan/WEIS/tree/ctopt-debug/examples/19_DFSM)
 
-Feel free to reach out to [Athul.Sundarrajan@colostate.edu](mailto:Athul.Sundarrajan@colostate.edu) or [Daniel.Herber@colostate.edu](mailto:Daniel.Herber@colostate.edu) for additional clarification.
+Feel free to reach out to [Athul.Sundarrajan@colostate.edu](mailto:Athul.Sundarrajan@colostate.edu) or [Daniel.Herber@colostate.edu](mailto:Daniel.Herber@colostate.edu) for additional information and references.
