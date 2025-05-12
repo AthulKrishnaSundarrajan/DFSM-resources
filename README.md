@@ -7,6 +7,6 @@ More details regarding the DFSM approach and its application to floating offshor
 
 The following presentation explores the trade-off betwen classic sys-id methods, and LSTM networks for creating surrogate models for control optimization of FOWT: [Sundarrajan2024c](https://www.engr.colostate.edu/~drherber/.vendor/bibtexbrowser/bibtexbrowser.php?key=Sundarrajan2024c&bib=default)
 
-An example of using the DFSM for closed-loop control simulation of FOWT can be found in: [Example_19](https://github.com/AthulKrishnaSundarrajan/WEIS/tree/ctopt-debug/examples/19_DFSM)
+An example of using the DFSM for closed-loop control simulation of FOWT can be found in: [Example_19](https://github.com/NREL/WEIS-CTOpt/tree/dfsm-debug)
 
 Feel free to reach out to [Athul.Sundarrajan@colostate.edu](mailto:Athul.Sundarrajan@colostate.edu) or [Daniel.Herber@colostate.edu](mailto:Daniel.Herber@colostate.edu) for additional information and references.
